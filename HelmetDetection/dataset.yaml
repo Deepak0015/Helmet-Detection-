@@ -1,0 +1,7 @@
+names:
+- Without Helmet
+- With Helmet
+nc: 2
+test: /home/saaho/THYTECH/HelmetDetection/HelmetDetection/test
+train: /home/saaho/THYTECH/HelmetDetection/HelmetDetection/train
+valid: /home/saaho/THYTECH/HelmetDetection/HelmetDetection/valid
